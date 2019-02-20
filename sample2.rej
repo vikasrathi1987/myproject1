@@ -1,0 +1,9 @@
+diff a/sample2 b/sample2	(rejected hunks)
+@@ -3,6 +3,7 @@
+  sample line 3
+  sample line 4
+  sample line 5
+++<<<<<<< e298f7d28800f57424e23c737f56e2af201921f8
+ +<<<<<<< 1144096b8a3b44f7aa61b4072ec3bed90b1b8fad
+ +line added from remote
+ +=======
