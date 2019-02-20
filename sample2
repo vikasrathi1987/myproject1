@@ -3,8 +3,12 @@ sample line 2
 sample line 3
 sample line 4
 sample line 5
+<<<<<<< HEAD
 <<<<<<< 1144096b8a3b44f7aa61b4072ec3bed90b1b8fad
 line added from remote
 =======
 line added from local
 >>>>>>> updated sample 2 locally
+=======
+line added from local
+>>>>>>> 49757a60cd7fb2328ea913354e598dbd2d8872c6
